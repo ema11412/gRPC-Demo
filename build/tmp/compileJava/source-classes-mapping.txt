@@ -1,6 +1,4 @@
-io/github/picodotdev/blogbitix/grpc/HelloWorldClient.java
- io.github.picodotdev.blogbitix.grpc.HelloWorldClient
-io/github/picodotdev/blogbitix/grpc/Main.java
+Main.java
  io.github.picodotdev.blogbitix.grpc.Main
 io/github/picodotdev/blogbitix/grpc/service/HelloWorldClass.java
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldClass
@@ -12,6 +10,8 @@ io/github/picodotdev/blogbitix/grpc/service/HelloWorldClass.java
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldClass$HelloResponse$1
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldClass$HelloResponse$Builder
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldClass$HelloResponseOrBuilder
+HelloWorldClient.java
+ io.github.picodotdev.blogbitix.grpc.HelloWorldClient
 io/github/picodotdev/blogbitix/grpc/service/HelloWorldGrpc.java
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldGrpc
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldGrpc$1
@@ -25,8 +25,8 @@ io/github/picodotdev/blogbitix/grpc/service/HelloWorldGrpc.java
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldGrpc$HelloWorldMethodDescriptorSupplier
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldGrpc$HelloWorldStub
  io.github.picodotdev.blogbitix.grpc.service.HelloWorldGrpc$MethodHandlers
-io/github/picodotdev/blogbitix/grpc/HelloWorldService.java
+HelloWorldService.java
  io.github.picodotdev.blogbitix.grpc.HelloWorldService
-io/github/picodotdev/blogbitix/grpc/HelloWorldServer.java
+HelloWorldServer.java
  io.github.picodotdev.blogbitix.grpc.HelloWorldServer
  io.github.picodotdev.blogbitix.grpc.HelloWorldServer$1
